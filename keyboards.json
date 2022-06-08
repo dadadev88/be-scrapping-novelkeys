@@ -1,0 +1,100 @@
+[
+    {
+        "name": "NK87 - Entry Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk87-entry-edition",
+        "price": "$135",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK87_EE_Top_Blossom_800x800.jpg",
+        "imgPath": "images/keyboards/NK87 - Entry Edition.jpg"
+    },
+    {
+        "name": "NK65 - Mictlan Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk65-mictlan-edition",
+        "price": "$140",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/Mictlan_NK65_16x9-2_800x800.jpg",
+        "imgPath": "images/keyboards/NK65 - Mictlan Edition.jpg"
+    },
+    {
+        "name": "NK65 - Aluminum Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk65-v2-aluminum-edition",
+        "price": "$165",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK65_Alu_NebulaPink_Top_800x800.jpg",
+        "imgPath": "images/keyboards/NK65 - Aluminum Edition.jpg"
+    },
+    {
+        "name": "NK65 - Oblivion Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk65-oblivion-edition-gb",
+        "price": "$140",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK65_Oblivion_Angle_800x800.jpg",
+        "imgPath": "images/keyboards/NK65 - Oblivion Edition.jpg"
+    },
+    {
+        "name": "NK65 - Superuser Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk65-superuser-edition",
+        "price": "$95",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK65_Superuser-5_800x800.jpg",
+        "imgPath": "images/keyboards/NK65 - Superuser Edition.jpg"
+    },
+    {
+        "name": "NK87 - Aluminum Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk87-aluminum-edition",
+        "price": "$225",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK87_ALU_Alien_Top_800x800.jpg",
+        "imgPath": "images/keyboards/NK87 - Aluminum Edition.jpg"
+    },
+    {
+        "name": "NK65 - Olivia Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk65-olivia-edition",
+        "price": "$250",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK65-Olivia-Light_Tile_800x800.jpg",
+        "imgPath": "images/keyboards/NK65 - Olivia Edition.jpg"
+    },
+    {
+        "name": "NK65 - Entry Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk65-entry-edition",
+        "price": "$95",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK65_EE_Top_Atomic_800x800.jpg",
+        "imgPath": "images/keyboards/NK65 - Entry Edition.jpg"
+    },
+    {
+        "name": "Gingham Keyboard Kit - Picnic Edition",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/gingham-keyboard-kit-picnic-edition",
+        "price": "$95",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/image_cc7bdfb0-3b0c-4602-a037-558378216dd1_800x800.jpg",
+        "imgPath": "images/keyboards/Gingham Keyboard Kit - Picnic Edition.jpg"
+    },
+    {
+        "name": "NK87 - Aluminum Edition BATCH 1",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk87-aluminum-edition-batch-1",
+        "price": "$285",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK87_ALU_CosmicPurple_Top_59430ff4-43d6-440c-a04c-8cf3bae4bd6a_800x800.jpg",
+        "imgPath": "images/keyboards/NK87 - Aluminum Edition BATCH 1.jpg"
+    },
+    {
+        "name": "NK87 - Entry Edition BATCH 1",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/nk87-entry-edition-batch-1",
+        "price": "$135",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/NK87_EE_Top_Black_cabd99d1-05bd-474d-b596-796e14956f86_800x800.jpg",
+        "imgPath": "images/keyboards/NK87 - Entry Edition BATCH 1.jpg"
+    },
+    {
+        "name": "Gingham Keyboard Kit",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/gingham-keyboard-kit",
+        "price": "$95",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gingham_Kit_800x800.jpg",
+        "imgPath": "images/keyboards/Gingham Keyboard Kit.jpg"
+    },
+    {
+        "name": "Seigaiha Keyboard Kit",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/seigaiha-keyboard-kit",
+        "price": "$95",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/Seigaiha_Kit_800x800.jpg",
+        "imgPath": "images/keyboards/Seigaiha Keyboard Kit.jpg"
+    },
+    {
+        "name": "Barleycorn Keyboard Kit",
+        "detailURL": "https://novelkeys.com/collections/keyboards/products/barleycorn-keyboard-kit",
+        "price": "$115",
+        "imgURL": "https://cdn.shopify.com/s/files/1/3099/8088/products/BarleyCorn_Kit_800x800.jpg",
+        "imgPath": "images/keyboards/Barleycorn Keyboard Kit.jpg"
+    }
+]
