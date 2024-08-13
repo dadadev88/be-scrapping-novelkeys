@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Validaing branch
-        uses: dadadev88/bcp-validate-branch-action@v0.0.1-beta
+        uses: dadadev88/bcp-validate-branch-action@v0.0.2-beta
         with:
           environment: 'PROD'
-          rc: 'RC-CERT_0.0.1_20240810-072706' 
+          rc: 'RCA-CERT_0.0.1_20240810-072706' 
