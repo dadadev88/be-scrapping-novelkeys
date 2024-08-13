@@ -1,0 +1,17 @@
+name: Testing BCP Action
+run-name: Testing BCP Action
+
+on:
+  workflow_dispatch:
+    
+jobs:
+  BranchValidation:
+    name: Branch validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Validaing branch
+        uses: dadadev88/bcp-validate-branch-action@v0.0.1
+        with:
+          environment: 'PROD'
+          rc: 'RC-CERT_0.0.1_20240810-072706' 
