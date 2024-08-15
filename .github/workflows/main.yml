@@ -1,17 +1,24 @@
-name: Testing BCP Action
-run-name: Testing BCP Action
+name: Testing dadadev88/node-package-info@v1.0.0
 
 on:
   workflow_dispatch:
     
 jobs:
-  BranchValidation:
-    name: Branch validation
-    runs-on: ubuntu-latest
-
+  node-pkg-info:
+    name: Getting package information
+    runs-on: ubuntu-22.04
+    
     steps:
-      - name: Validaing branch
-        uses: dadadev88/bcp-validate-branch-action@v0.0.3-beta
+      - name: Checkout to repository
+        uses: actions/checkout@v4 # It's required to get repository where is package.json
+    
+      - name: Getting package information
+        uses: dadadev88/node-package-info@v1.0.0
+        id: node-package-info # You can put your own id
         with:
-          environment: 'PROD'
-          rc: 'RCA-CERT_0.0.1_20240810-072706' 
+          path: 'package.json'
+    
+      - name: Print package information
+        run: |
+          echo "Package name: ${{ steps.node-package-info.outputs.name }}"
+          echo "Package version: ${{ steps.node-package-info.outputs.version }}"
