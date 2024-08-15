@@ -1,4 +1,4 @@
-name: Testing dadadev88/node-package-info@v1.0.0
+name: Node Pkg Information
 
 on:
   workflow_dispatch:
